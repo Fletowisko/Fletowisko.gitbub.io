@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(45, 50, 80);
+}
+.gora {
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    border: 5px;
+    color: white;
+    }
+.srodek {
+    border: 5px;
+    text-align: center;
+    color: white;
+    }
+.lewa {
+    border: 5px;
+    color: white;
+    position: absolute;
+    left: 100px;
+    top: 430px;
+}
+#nie {
+    font-family: 'Rubik Maps', system-ui;
+    position: absolute;
+    top: 0;
+    right: 5px;
+    color: white;
+}
+#GłówneZdj {
+    width: 23%;
+    border: 12px dashed rgb(66, 71, 105);
+
+}
+#yt {
+    color: rgb(246, 177, 122);
+    position: absolute;
+    bottom: 0;
+    left: 9px;
+}
+#nowelink {
+    color: rgb(112, 119, 161);
+}
+#cat {
+    position: absolute;
+    left: 400px;
+    top: 10px;
+    width: 12.5%;
+}
+#cat1 {
+    position: absolute;
+    right: 400px;
+    top: 10px;
+    width: 12.5%;
+}

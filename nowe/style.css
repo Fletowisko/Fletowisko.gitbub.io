@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(45, 50, 80);
+}
+.swiezynki {
+    width: 50%;
+    margin: 15px;
+    margin-left: 25%;
+    border: 5px dashed rgb(66, 71, 105);
+}
+.zdjecia {
+    width: 100%;
+}
